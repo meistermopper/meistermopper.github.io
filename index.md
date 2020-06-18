@@ -7,3 +7,6 @@ Leider hat man es unterlassen, seinen Kopf an den Helm anzupassen.
 * fliegen
 * schreien
 * prahlen
+
+Er sagte:
+> Ich liebe wahnsinnige Geschwindigkeit!
